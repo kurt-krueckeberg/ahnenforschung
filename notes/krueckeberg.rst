@@ -1,20 +1,5 @@
-Die Familien
-============
-
-Hintergrund
------------
-
-Die vier Familien, mit den ich Hilfe brache, sind:
-
-* Krückeberg von Nummer 18 in Berenbusch, Schaumburg Lippe.
-* Peppler von Rodheim, Hessen-Darmstad 
-* Behrman (könnte auch Beerman sein) von Braunschweig, Niedersachsen, Deutschland
-* Vollmer von Owen, Donaukreis, Württemberg
-
-Alle die Dokumentation für die vier Familien oben ist an Ancestry.com im Stammbaum `Gottlieb Krueckeberg <https://www.ancestry.com/family-tree/tree/68081704/family/familyview?cfpid=38173637016>`_.
- 
 Krückeberg
-----------
+==========
 
 Mein Urururgroßvater `Carl Friedrich Krückeberg <https://www.ancestry.com/family-tree/person/tree/68081704/person/38173637016/facts>`_, seine Ehefrau `Phillippine Dorothea Bleeken <https://www.ancestry.com/family-tree/person/tree/68081704/person/38173637016/facts>`_ und die sechs Kinder
 wanderten im Jahre 1850 nach Amerika aus. Die Familie fahrt vom Bremen am Schiff Hermine ab, und sie landeten im November 1850 in New York, New York(Castle Garden). Im Dezember wohnen die Familie in Adams County, Indiana. 
