@@ -12,9 +12,11 @@ Im Decezember 2019 bekam ich eine maschinegeschriebene Dokument von einer Kusine
     
     von n. 18 In Berenbusch, Deutschland
     
-    
     Laut Angabe des hiesigen Kirchenbuchs wurde Carl Friederich Krueckeberg (ehel. 2tes Kind und lster Sohn des Carl Friedr. Gottlieb Krueckeberg, Schneiders in Berenbusch, u. sr. Ehefrau Philippine Leonore, geb. Bleeken,
-    von Namen des dreieinigen Gottes in hiesiger Kirche getauft, wobei als Taufzeugen erschienen: 1)  Hans Heinrich Wilharm N. 11, 2) Johann Heinrich Deerberg N. 6 in Evensen, 3) Jobst Heinrich Krueckeberg von Berenbusch.
+    von N. 11 in Evensen), d. 21sten Mai, 1807 Abends 8 Uhr geboren un d. 24ten Im Namen des dreieinigen Gottes in hiesiger Kirche getauft, wobei als Taufzeugen erschienen:
+    1. Hans Heinrich Wilharm N. 11
+    2. Johann Heinrich Deerberg N. 6 in Evensen
+    3. Jobst Heinrich Krueckeberg von Berenbusch.
         
     Sein ev. luth. Glaubenbekenntnis legte derselbe ab am Sonntag Quasimodigeniti 1821.
 	        
@@ -23,7 +25,7 @@ Im Decezember 2019 bekam ich eine maschinegeschriebene Dokument von einer Kusine
         
     Obigen Eheleuten ev. Luth. Glaubensbekenntnisses sind nachfolgende Kinder am Leben:
         
-    1. Carl Heinrich Wilhelm Krueckeberg, geb. d. 4teh Feb. 1835, morgens 3 Uhr; getaubt d. 8ten im Namen des Dreieinigen Gottes; konfirmiert am Sonntag Quasimodoeniti, d. 15ten April 1849.
+    1. Carl Heinrich Wilhelm Krueckeberg, geb. d. 4teh Feb. 1835, morgens 3 Uhr; getauft d. 8ten im Namen des Dreieinigen Gottes; konfirmiert am Sonntag Quasimodoeniti, d. 15ten April 1849.
     
     2. Caroline Philippine Krueckeberg, geb. d. 15ten Oktober, 1837 mittages 11Uhr; getauft im Namen des Dreieinigen Gottes d. 22.
     
@@ -37,11 +39,12 @@ Im Decezember 2019 bekam ich eine maschinegeschriebene Dokument von einer Kusine
     
     Die Übereinstimmung vorstehender Angaben mit den hiesigen Kirchenbüchern bescheinigt den Auswanderern unter Anwünschung des göttliche Segens – subfide pastorali
     
-				    Petzen d. 23sten September 1850
-							    Pepe vacanti
-							    der vikarirende Prediger
+    Petzen d. 23sten September 1850
+    Pepe vacanti
+    der vikarirende Prediger
+
     Fürstentum Schaumburg Lippe
-						    L. Schwerdtmann von Bergkirchen
+    L. Schwerdtmann von Bergkirchen
     
     
     
