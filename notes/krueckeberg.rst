@@ -1,17 +1,23 @@
 Krückeberg
 ==========
 
+Hintergrund
+-----------
+
 Mein Urururgroßvater `Carl Friedrich Krückeberg <https://www.ancestry.com/family-tree/person/tree/68081704/person/38173637016/facts>`_, seine Ehefrau `Phillippine Dorothea Bleeken <https://www.ancestry.com/family-tree/person/tree/68081704/person/38173637016/facts>`_ und die sechs Kinder
 wanderten im Jahre 1850 nach Amerika aus. Die Familie fahrt vom Bremen am Schiff Hermine ab, und sie landeten im November 1850 in New York, New York(Castle Garden). Im Dezember 1850 wohnen die Familie in Adams County, Indiana. 
 
 Im Decezember 2019 bekam ich eine maschinegeschriebene Dokument von einer Kusine meines verstorbenen Vaters. Der Text des Dokuments ist unten. Ich möchte die Echtheit des Kokuments und die Fakten im Dokument bestätigen:
 
 .. raw:: html
-
+  
+    <p><hr /></p>
     <div style='width: 800px;'>
 
 FAMILIENSCHEIN DES AUSWANDERERS
+
 CARL FRIEDERICH KRUECKEBERG
+
 von n. 18 In Berenbusch, Deutschland
 
 Laut Angabe des hiesigen Kirchenbuchs wurde Carl Friederich Krueckeberg (ehel. 2tes Kind und lster Sohn
@@ -52,12 +58,9 @@ Pepe vacanti
 der vikarirende Prediger
 
 Fürstentum Schaumburg Lippe
+
 L. Schwerdtmann von Bergkirchen
 
 .. raw:: html
-
-    </div>
-
-Other stuff here
-
-More here
+  
+    <p><hr /></p>
