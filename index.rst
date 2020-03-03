@@ -9,10 +9,9 @@ Welcome to Stammbaum's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
    notes/familien.rst
    notes/krueckeberg.rst
-
 
 
 Indices and tables
