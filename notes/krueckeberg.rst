@@ -15,6 +15,7 @@ Im Decezember 2019 bekam ich eine maschinegeschriebene Dokument von einer Kusine
     Laut Angabe des hiesigen Kirchenbuchs wurde Carl Friederich Krueckeberg (ehel. 2tes Kind und lster Sohn des Carl Friedr. Gottlieb Krueckeberg, Schneiders in Berenbusch, u. sr. Ehefrau
     Philippine Leonore, geb. Bleeken, von N. 11 in Evensen), d. 21sten Mai, 1807 Abends 8 Uhr geboren un d. 24ten Im Namen des dreieinigen Gottes in hiesiger Kirche getauft, wobei als
     Taufzeugen erschienen:
+
     1. Hans Heinrich Wilharm N. 11
     2. Johann Heinrich Deerberg N. 6 in Evensen
     3. Jobst Heinrich Krueckeberg von Berenbusch.
